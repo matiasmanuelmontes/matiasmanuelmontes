@@ -29,5 +29,5 @@ const MMM = {
 - 💬 Ask me about my proyects like Qatarbets : https://qatarbets-frontend-git-develop-nachoaar.vercel.app/
 
 
-⭐️ From [rafnixg](https://github.com/rafnixg)`
+⭐️ From [MMM](https://github.com/matiasmanuelmontes)`
 
