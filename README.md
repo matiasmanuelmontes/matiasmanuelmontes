@@ -33,7 +33,7 @@ const MMM = {
 
 ## Latest Posts
 
-- 💬 Ask me about my proyects like Qatarbets : https://qatarbets-frontend-git-develop-nachoaar.vercel.app/
+https://qatarbets-frontend-git-develop-nachoaar.vercel.app/
 
 
 ⭐️ From [MMM](https://github.com/matiasmanuelmontes)`
