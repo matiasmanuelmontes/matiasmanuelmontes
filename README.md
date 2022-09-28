@@ -7,10 +7,8 @@ I am Matias Montes
 - 👯 I’m looking to collaborate on javascript, react, redux, nodejs, sequelize, express and postgresSql proyects
 - 💬 Ask me about my proyects like Qatarbets : https://qatarbets-frontend-git-develop-nachoaar.vercel.app/
 
-## Hola, Soy Matias Montes
-![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
 
-<a href="https://github.com/matiasmanuelmontes"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
+
 
 ```javascript
 const MMM = {
@@ -26,10 +24,9 @@ const MMM = {
 
 - 📫 How to reach me: here you have mi linkedIn profile: https://www.linkedin.com/in/matias-montes-866b42134/
 
-## Latest Posts (Spanish)
+## Latest Posts
 
-
-- [🐍 Entornos virtuales en Python usando Pipenv](https://rafnixg.dev/entornos-virtuales-en-python-usando-pipenv/)
+- 💬 Ask me about my proyects like Qatarbets : https://qatarbets-frontend-git-develop-nachoaar.vercel.app/
 
 
 ⭐️ From [rafnixg](https://github.com/rafnixg)`
