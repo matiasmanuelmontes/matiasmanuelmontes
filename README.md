@@ -20,7 +20,7 @@ const MMM = {
 ```
 ## Get in touch
 
-- 📫 How to reach me: here you have mi linkedIn profile: <a href="https://www.linkedin.com/in/matias-montes-866b42134/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+- 📫 How to reach me: here you have mi linkedIn profile:  <a href="https://www.linkedin.com/in/matias-montes-866b42134/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
 
 ## Latest Posts
 
