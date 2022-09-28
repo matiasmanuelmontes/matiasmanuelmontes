@@ -19,7 +19,7 @@ const MMM = {
     }
 ```
 
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/matiasmanuelmontes/"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
 
 ## Get in touch
 
