@@ -4,7 +4,7 @@ I am Matias Montes
 
 - 🔭 I’m currently open to work
 - 🌱 I’m a full stack developer
-- 👯 I’m looking to collaborate on javascript, react, redux, nodejs, sequelize, express and postgreSql proyects
+- 👯 I’m looking to collaborate on javascript, react, redux, nodejs, sequelize, express and postgreSql projects
 
 
 
